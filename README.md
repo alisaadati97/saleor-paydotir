@@ -10,8 +10,9 @@ token,
 username
 }
 }
-
+```
 for a mutation : 
+```graphql
 mutation {
   createPaydotir(
     username:"username",
