@@ -1,6 +1,7 @@
 # saleor-paydotir
 
 for a query type :
+```graphql
 query{  
 paydotirs{
 id,
@@ -23,3 +24,4 @@ mutation {
     token
   }
 }
+```
