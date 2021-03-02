@@ -3,12 +3,12 @@
 for a query type :
 ```graphql
 query{  
-paydotirs{
-id,
-transid,
-token,
-username
-}
+  paydotirs{
+    id,
+    transid,
+    token,
+    username
+  }
 }
 ```
 for a mutation : 
